@@ -1,0 +1,6 @@
+D:\POtemp\Cwiczenia8\Biblioteka\bin\Debug\Biblioteka.exe.config
+D:\POtemp\Cwiczenia8\Biblioteka\bin\Debug\Biblioteka.exe
+D:\POtemp\Cwiczenia8\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\POtemp\Cwiczenia8\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+D:\POtemp\Cwiczenia8\Biblioteka\obj\Debug\Biblioteka.exe
+D:\POtemp\Cwiczenia8\Biblioteka\obj\Debug\Biblioteka.pdb
